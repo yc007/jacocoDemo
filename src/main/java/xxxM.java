@@ -5,7 +5,6 @@ public class xxxM {
 
         int i=1;
         int j=2;
-        int c = i+j;
-        System.out.println(c);
+        System.out.println(j);
     }
 }

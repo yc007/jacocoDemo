@@ -2,10 +2,10 @@ public class lkkk {
 
     public int kkk(int a , int b){
 
-        int i= 10;
-        int j=12;
+         a= 10;
+         b=12;
 
-        return i+j;
+        return a+b;
     }
 
 

@@ -4,7 +4,7 @@ public class lkkk {
 
         int i= 10;
         int j=12;
-        
+
         return i+j;
     }
 
